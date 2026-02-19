@@ -3,8 +3,8 @@ name: reality-model-analysis
 description: A methodology for treating experience as constructed rather than given. Based on the insight that what we call "reality" is actually a model built by the brain—a useful approximation that we mistak...
 license: MIT
 metadata:
+  version: 1.0.4803
   author: sethmblack
-  version: 1.0.4802
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - reality-model-analysis
